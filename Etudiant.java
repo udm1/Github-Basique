@@ -1,4 +1,4 @@
-package com.eudoxie;
+package com.divine;
 //
 //
 //
